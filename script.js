@@ -5,10 +5,11 @@ function loadButtons() {
 }
 
 function play() {
-	document.getElementById("output").innerHTML = `<div class="main-picture"><iframe src="https://www.youtube.com/embed/xvFZjo5PgG0?autoplay=1&modestbranding=1&controls=0&rel=0&loop=1"
+	document.getElementById("output").innerHTML = `<div class="main-picture"><iframe src="https://www.youtube.com/embed/xvFZjo5PgG0?autoplay=1&loop=1&modestbranding=1&controls=0&rel=0"
 	title="muahahahahaha" frameborder="0" allow="autoplay; encrypted-media;" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>`
 
 }
+
 
 
 
