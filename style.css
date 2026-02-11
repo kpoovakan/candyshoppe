@@ -59,6 +59,7 @@ body {
 	height: 395px;
 	overflow: hidden;
 	position: relative;
+	border-radius: 13px;
 }
 
 .main-picture iframe {
@@ -69,3 +70,4 @@ body {
 	height: 395px;
 	pointer-events: none;
 }
+
