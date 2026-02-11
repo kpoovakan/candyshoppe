@@ -69,5 +69,7 @@ body {
 	width: 704px;
 	height: 395px;
 	pointer-events: none;
+	border-radius: 13px;
 }
+
 
