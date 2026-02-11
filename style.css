@@ -51,4 +51,21 @@ body {
 	position: fixed;
 	bottom: 0;
 	font-size: 13pt;
+
+}
+
+.main-picture {
+	width: 700px;
+	height: 395px;
+	overflow: hidden;
+	position: relative;
+}
+
+.main-picture iframe {
+	position: absolute;
+	top: -50px;
+	left: -2px;
+	width: 704px;
+	height: 395px;
+	pointer-events: none;
 }
